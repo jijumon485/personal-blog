@@ -1,0 +1,56 @@
+{
+    "data" : [
+        {
+            "id": 1,
+            "blogCategory": "Photography",
+            "blogTitle" : "Kumarakom",
+            "slug": "kumarakom",
+            "postedOn": "July 21, 2019",
+            "author": "Jithendra g menon",
+            "blogImage": "kumarakom.jpg",
+            "blogText": "Kumarakom – an entrancing backwater destination – offers unworldly natural beauty and charm. Comprising of island clusters surrounding the Vembanad Lake, this picturesque tourist spot is a perfect paradise for nature enthusiasts and a treat to the eyes for ornithologists. In addition to the numerous places to visit in Kumarakom, the city also has some absolutely pleasant activities including boating, angling, strolling, and quick & short treks.These super cool activities for families, couples, and friends are some of the best ways to chill out. Besides the unparalleled beauty of Kumarakom, these activities make it one of the most visited destinations in the God’s own country. How much one can indulge in depends on the duration of stay. But even during a short and crisp vacation, one can plan and extract the maximum fun of this pristine backwater scene."
+
+            
+        },
+        {
+            "id" : 2,
+            "blogCategory": "Photography",
+            "blogTitle": "Munnar",
+            "slug": "munnar",
+            "postedOn": "jan 09, 2018",
+            "author": "Jithendra g menon",
+            "blogImage": "munnar.jpeg",
+            "blogText": "Munnar derives its name from the combination of two Malayalam words “Moonnu” and “Ara” which translates to three rivers. The town gets this name as it is situated at the confluence of three rivers. When looking for top tourist places to see in Munnar you will be confronted by an overwhelming list of tourist attractions that includes places ranging from stunning viewpoints and mesmerizing waterfalls to majestic dams. The list of top tourist attractions in Munnar also includes wildlife sanctuaries, tea plantations, museums and historical sites. But throughout your holiday in Munnar, you will find yourself close to nature. After all, Munnar isn’t simply nicknamed “Kashmir of South India”."
+        },
+        {
+            "id": 3,
+            "blogCategory": "Photography",
+            "blogTitle": "Vagamon",
+            "slug": "vagamon",
+            "postedOn": "dec 6, 2018",
+            "author": "Jithendra G Menon",
+            "blogImage": "vagamon.jpeg",
+            "blogText": " Vagamon is a tiny plantation township in Central Travancore, Vagamon has an overtone of green. With a never-ending line of lush green hills, breathtaking ravines and meandering rivulets. A perfect tourist place situated 1200 meters above the sea level spot surrounded by the greenery of tea gardens , Fresh cool air, murmuring Pine forest ,small waterfalls , attractive meadows inviting you to vagamon.Reaching Vagamon itself is an extraordinary experience. The meandering road to Vagamon is cut in solid rock lined with pine forests. And as you wind your way through green capped hills, the rolling plains come into view thousands of feet below you."
+        },
+        {
+            "id": 4,
+            "blogCategory": "Photography",
+            "blogTitle": "Ramakkalmedu",
+            "slug": "ramakkalmedu",
+            "postedOn": "Jul 23 2017",
+            "author": "Jithendra G Menon",
+            "blogImage": "ramakkalmedu.jpeg",
+            "blogText": "As the famous Hollywood superstar, Leonardo DiCaprio remarked about Ramakkalmedu, ‘If there is a paradise on Earth, it is here.’ Ramakkalmedu, a small abode in the hills of Idukki, is indeed a paradise on Earth. The visit to God’s Own Country of Kerala would remain incomplete without a visit to the beautiful destination of Ramakkalmedu. It is located at a height of 3500 feet above sea level and is 15 kilometers from Nedumkandam in Thekkady.Ramakkalmedu also called as Kerala’s ‘cradle of wind’ is a famous hill station in Idukki District of Kerala which provides a panoramic view of Tamilnadu villages and towns.Ramakkalmedu is not only a hill station but also a windy spot too.There are a lot of attractions but the main attraction in Ramakkalmedu is the Kuruvan and Kuruvatti statue, which is  located in one of the hills of Ramakaklmedu.The myth behind the name “Ramakkalmedu” is Rama – kal – medu literally means “Land of Rama’s Stone” or “Land where Rama kept his leg”. The story behind this place says that Lord Rama kept his feet at the tip of Ramakkalmedu to search Ravana the King of Lanka, who abducted his wife Sita."
+        },
+        {
+            "id": 5,
+            "blogCategory": "Photography",
+            "blogTitle": "Cheeyappara Waterfalls",
+            "slug": "cheeyappara",
+            "postedOn": "jul 23 2017",
+            "author": "Jithendra g menon",
+            "blogImage": "cheeyappara.jpeg",
+            "blogText": "The Cheeyappara and Valara Waterfalls are among the best trekking locations in Idukki district. Many people come across these waterfalls on the way to Munnar and it is slowly turning into a tourist hotbed. There is a dense growth of trees all around and several rare species of plants and animals can be seen in the vicinity. The Cheeyappara Waterfalls gush down in seven tiers and area truly spectacular sight to behold. Valara Waterfalls are known for the lush greenery surrounding it and is a lovely picnic location. ."
+        }
+    ]
+}
